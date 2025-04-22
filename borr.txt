@@ -1,0 +1,707 @@
+<table class="w-full caption-bottom text-sm">
+  <thead class="[&amp;_tr]:border-b">
+    <tr
+      class="border-b transition-colors hover:bg-gray-100/50 data-[state=selected]:bg-gray-100"
+    >
+      <th
+        class="h-12 px-4 text-left align-middle font-medium text-gray-500 [&amp;:has([role=checkbox])]:pr-0"
+      >
+        Workspace Hash
+      </th>
+      <th
+        class="h-12 px-4 text-left align-middle font-medium text-gray-500 [&amp;:has([role=checkbox])]:pr-0"
+      >
+        Folder
+      </th>
+      <th
+        class="h-12 px-4 text-left align-middle font-medium text-gray-500 [&amp;:has([role=checkbox])]:pr-0"
+      >
+        Last Modified
+      </th>
+      <th
+        class="h-12 px-4 align-middle font-medium text-gray-500 [&amp;:has([role=checkbox])]:pr-0 text-right"
+      >
+        Ask Logs
+      </th>
+      <th
+        class="h-12 px-4 align-middle font-medium text-gray-500 [&amp;:has([role=checkbox])]:pr-0 text-right"
+      >
+        Agent Logs
+      </th>
+    </tr>
+  </thead>
+  <tbody class="[&amp;_tr:last-child]:border-0">
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          c4b48f8a93b2d3409518164696816710
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/cursorchat/cursor-chat-browser"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/cursorchat/cursor-chat-browser
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 20th, 2025 10:21 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        2
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          1745201936933
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <span class="text-gray-400 italic">No folder</span>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 20th, 2025 10:20 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        2
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          0fa80086446f0e84321d7ba9d3e24dcd
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/chatia"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/chatia
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 20th, 2025 10:20 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        5
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          1745201680519
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <span class="text-gray-400 italic">No folder</span>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 20th, 2025 10:14 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        2
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          012134a61ce201741a7b7c1745cdfeba
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2_2"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2_2
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 18th, 2025 6:56 AM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        34
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          2e4534195bdec0219bf41635f8b11e2b
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/tb"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/tb
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        April 3rd, 2025 10:51 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        28
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          8b320ddfe4620bd4a27d6382d40b1925
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/apiless"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/apiless
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        March 27th, 2025 9:44 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        19
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          8667464a4c85b6a84c0509e658f3d4e5
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/spotilistas"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/spotilistas
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        March 6th, 2025 12:52 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        7
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        9
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          2acc2bea61607eaeeb0d71d574665cfd
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/perfectibles"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/perfectibles
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        February 22nd, 2025 1:27 AM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        4
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        9
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          a4ebd9ad72db2be136357377255b1dd2
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        February 5th, 2025 5:26 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        2
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          f30604edf9bdd9987738e5e9880a39e3
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/poliamor2
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        January 30th, 2025 6:33 AM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        5
+      </td>
+    </tr>
+    <tr
+      class="border-b transition-colors data-[state=selected]:bg-gray-100 hover:bg-accent/50"
+    >
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <button class="text-blue-600 hover:underline font-medium">
+          6dd3b2be2295826b4cb233a3d9a41acd
+        </button>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        <div class="flex items-start space-x-2">
+          <span class="text-gray-500 mt-1">📁</span>
+          <span
+            class="break-all text-sm"
+            title="file:///c%3A/Users/ignac/Escritorio/Trabajos/RSS"
+          >
+            file:///c%3A/Users/ignac/Escritorio/Trabajos/RSS
+          </span>
+        </div>
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0">
+        November 14th, 2024 6:17 PM
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        3
+      </td>
+      <td class="p-4 align-middle [&amp;:has([role=checkbox])]:pr-0 text-right">
+        0
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+--------------------chat -> "AI" --------------------------
+<div class="col-span-9">
+  <div class="rounded-xl border bg-card text-card-foreground shadow p-6">
+    <div class="flex items-center justify-between mb-4">
+      <h2 class="text-xl font-bold">Untitled</h2>
+      <div
+        class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80"
+      >
+        Agent Log
+      </div>
+    </div>
+    <div class="space-y-6">
+      <div class="p-4 rounded-lg border bg-muted/50 dark:bg-muted/10">
+        <div class="font-semibold mb-3 text-foreground">User</div>
+        <div class="rounded-lg overflow-hidden">
+          <div class="prose dark:prose-invert max-w-none"><p>hello</p></div>
+        </div>
+      </div>
+      <div class="p-4 rounded-lg border bg-background">
+        <div class="font-semibold mb-3 text-foreground">AI</div>
+        <div
+          class="flex items-center gap-2 px-3 py-2 bg-muted/20 dark:bg-muted/5 rounded border border-muted/30 text-muted-foreground"
+        >
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 16 16"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            class="opacity-50"
+          >
+            <path
+              d="M2 3.5C2 2.67157 2.67157 2 3.5 2H12.5C13.3284 2 14 2.67157 14 3.5V12.5C14 13.3284 13.3284 14 12.5 14H3.5C2.67157 14 2 13.3284 2 12.5V3.5Z"
+              stroke="currentColor"
+              stroke-width="1.3"
+            ></path>
+            <path
+              d="M4 5L7 8L4 11"
+              stroke="currentColor"
+              stroke-width="1.3"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+            <path
+              d="M8 11H12"
+              stroke="currentColor"
+              stroke-width="1.3"
+              stroke-linecap="round"
+            ></path>
+          </svg>
+          Terminal output not included
+        </div>
+      </div>
+      <div class="p-4 rounded-lg border bg-background">
+        <div class="font-semibold mb-3 text-foreground">AI</div>
+        <div class="rounded-lg overflow-hidden">
+          <div class="prose dark:prose-invert max-w-none">
+            <p>Hi there! How can I help you with your coding today?</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+-------------------------------select composer in chat----------------------------------------------------------------
+<div class="grid grid-cols-12 gap-6">
+  <div class="col-span-3 space-y-4">
+    <div class="space-y-4">
+      <h2 class="text-2xl font-bold">Ask Logs</h2>
+      <div class="space-y-2"></div>
+    </div>
+    <div class="space-y-4 mt-8">
+      <h2 class="text-2xl font-bold">Agent Logs</h2>
+      <div class="space-y-2">
+        <button
+          class="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 w-full justify-start px-4 py-3 h-auto"
+          title="Untitled"
+        >
+          <div class="text-left w-full">
+            <div class="font-medium truncate">Composer 1dbc7b3d</div>
+            <div class="text-sm text-muted-foreground">
+              21-04-2025, 4:46:19 p.&nbsp;m.
+            </div>
+          </div>
+        </button>
+        <button
+          class="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground w-full justify-start px-4 py-3 h-auto"
+          title="Simple Greetings and Introductions"
+        >
+          <div class="text-left w-full">
+            <div class="font-medium truncate">
+              Simple Greetings and Introductions
+            </div>
+            <div class="text-sm text-muted-foreground">
+              21-04-2025, 4:47:00 p.&nbsp;m.
+            </div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="col-span-9">
+    <div class="rounded-xl border bg-card text-card-foreground shadow p-6">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-xl font-bold">Untitled</h2>
+        <div
+          class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80"
+        >
+          Agent Log
+        </div>
+      </div>
+      <div class="space-y-6"></div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+-------------------------------------- Code Examples ------------------------------------------------------
+<div class="prose dark:prose-invert max-w-none">
+  <p>
+    Great! Here’s a concise summary of the key points for the
+    <strong>0/1 Knapsack Problem</strong> followed by the Python
+    implementation.
+  </p>
+  <h3>Key Points Summary:</h3>
+  <ul>
+    <li>
+      <p>
+        <strong>DP Table Definition</strong>: Create a 2D array
+        <div
+          style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"
+        >
+          <code
+            class="language-text"
+            style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"
+            ><span>dp</span></code
+          >
+        </div>
+        where
+        <div
+          style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"
+        >
+          <code
+            class="language-text"
+            style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"
+            ><span>dp[i][j]</span></code
+          >
+        </div>
+        represents the maximum value achievable with the first ( i ) items and a
+        maximum weight of ( j ).
+      </p>
+    </li>
+    <li>
+      <p><strong>Base Case</strong>:</p>
+      <ul>
+        <li>
+          If there are no items or the capacity is zero: [ dp[0][j] = 0 \quad
+          \text{for all } j ] [ dp[i][0] = 0 \quad \text{for all } i ]
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p><strong>Recurrence Relation</strong>:</p>
+      <ul>
+        <li>
+          If the weight of the current item ( w_i ) is less than or equal to the
+          current capacity ( j ): [ dp[i][j] = \max(dp[i-1][j], dp[i-1][j - w_i]
+          + v_i) ]
+        </li>
+        <li>
+          If the weight of the current item is greater than the current
+          capacity: [ dp[i][j] = dp[i-1][j] ]
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        <strong>Final Result</strong>: The maximum value will be found in
+        <div
+          style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"
+        >
+          <code
+            class="language-text"
+            style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"
+            ><span>dp[n][W]</span></code
+          >
+        </div>
+        , where ( n ) is the number of items.
+      </p>
+    </li>
+  </ul>
+  <h3>Python Implementation:</h3>
+  <p>
+    Here’s how you can implement the 0/1 Knapsack Problem in Python:
+  </p>
+  <pre><div style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"><code class="language-python" style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"><span class="token" style="color: rgb(86, 156, 214);">def</span><span> </span><span class="token" style="color: rgb(220, 220, 170);">knapsack</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>weights</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> values</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> W</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span class="token" style="color: rgb(212, 212, 212);">:</span><span>
+</span><span>    n </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">len</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>weights</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span>
+</span><span>    dp </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">[</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span class="token" style="color: rgb(181, 206, 168);">0</span><span> </span><span class="token" style="color: rgb(86, 156, 214);">for</span><span> _ </span><span class="token" style="color: rgb(86, 156, 214);">in</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">range</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>W </span><span class="token" style="color: rgb(212, 212, 212);">+</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span> </span><span class="token" style="color: rgb(86, 156, 214);">for</span><span> _ </span><span class="token" style="color: rgb(86, 156, 214);">in</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">range</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>n </span><span class="token" style="color: rgb(212, 212, 212);">+</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span>
+</span>
+<span>    </span><span class="token" style="color: rgb(106, 153, 85);"># Build the DP table</span><span>
+</span><span>    </span><span class="token" style="color: rgb(86, 156, 214);">for</span><span> i </span><span class="token" style="color: rgb(86, 156, 214);">in</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">range</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> n </span><span class="token" style="color: rgb(212, 212, 212);">+</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span class="token" style="color: rgb(212, 212, 212);">:</span><span>
+</span><span>        </span><span class="token" style="color: rgb(86, 156, 214);">for</span><span> j </span><span class="token" style="color: rgb(86, 156, 214);">in</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">range</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> W </span><span class="token" style="color: rgb(212, 212, 212);">+</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span class="token" style="color: rgb(212, 212, 212);">:</span><span>
+</span><span>            </span><span class="token" style="color: rgb(86, 156, 214);">if</span><span> weights</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">&lt;=</span><span> j</span><span class="token" style="color: rgb(212, 212, 212);">:</span><span>
+</span><span>                dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>j</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(206, 145, 120);">max</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>j</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>j </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> weights</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">+</span><span> values</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span>
+</span><span>            </span><span class="token" style="color: rgb(86, 156, 214);">else</span><span class="token" style="color: rgb(212, 212, 212);">:</span><span>
+</span><span>                dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>j</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>i </span><span class="token" style="color: rgb(212, 212, 212);">-</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>j</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span>
+</span>
+<span>    </span><span class="token" style="color: rgb(86, 156, 214);">return</span><span> dp</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>n</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span class="token" style="color: rgb(212, 212, 212);">[</span><span>W</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span>
+</span>
+<span></span><span class="token" style="color: rgb(106, 153, 85);"># Example usage</span><span>
+</span><span>weights </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">[</span><span class="token" style="color: rgb(181, 206, 168);">1</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">2</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">3</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span>
+</span><span>values </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(212, 212, 212);">[</span><span class="token" style="color: rgb(181, 206, 168);">10</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">15</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">40</span><span class="token" style="color: rgb(212, 212, 212);">]</span><span>
+</span><span>W </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> </span><span class="token" style="color: rgb(181, 206, 168);">6</span><span>
+</span><span>max_value </span><span class="token" style="color: rgb(212, 212, 212);">=</span><span> knapsack</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span>weights</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> values</span><span class="token" style="color: rgb(212, 212, 212);">,</span><span> W</span><span class="token" style="color: rgb(212, 212, 212);">)</span><span>
+</span><span></span><span class="token" style="color: rgb(86, 156, 214);">print</span><span class="token" style="color: rgb(212, 212, 212);">(</span><span class="token string-interpolation" style="color: rgb(206, 145, 120);">f"The maximum value in the knapsack is: </span><span class="token string-interpolation" style="color: rgb(212, 212, 212);">{</span><span class="token string-interpolation" style="color: rgb(156, 220, 254);">max_value</span><span class="token string-interpolation" style="color: rgb(212, 212, 212);">}</span><span class="token string-interpolation" style="color: rgb(206, 145, 120);">"</span><span class="token" style="color: rgb(212, 212, 212);">)</span></code></div></pre>
+  <p>
+    This implementation initializes the DP table, fills it according to the
+    recurrence relation, and finally returns the maximum value that can be
+    carried in the knapsack.
+  </p>
+  <p>
+    Do you have any questions about the code, or is there anything specific
+    you’d like to explore further? I'm here to help!
+  </p>
+</div>
+
+
+
+
+
+------------------------------------------ Strong Tags ------------------------------------------
+<p>
+  <strong>DP Table Definition</strong>: Create a 2D array
+  <div
+    style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"
+  >
+    <code
+      class="language-text"
+      style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"
+      ><span>dp</span></code
+    >
+  </div>
+  where
+  <div
+    style="color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; background: rgb(30, 30, 30);"
+  >
+    <code
+      class="language-text"
+      style="white-space: pre; color: rgb(212, 212, 212); font-size: 13px; text-shadow: none; font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'Ubuntu Mono', 'Courier New', monospace; direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;"
+      ><span>dp[i][j]</span></code
+    >
+  </div>
+  represents the maximum value achievable with the first ( i ) items and a
+  maximum weight of ( j ).
+</p>
+
+
+
+
+
+
+
+
+--------------------------------------------- ul li -------------------------------------------------------
+<div class="p-4 rounded-lg border bg-background">
+  <div class="font-semibold mb-3 text-foreground">AI</div>
+  <div class="rounded-lg overflow-hidden">
+    <div class="prose dark:prose-invert max-w-none">
+      <p>
+        It seems we're in a bit of a loop! Let's keep the conversation flowing.
+        Since we've already discussed the
+        <strong>Greedy Algorithm Analysis</strong>, how about we move on to
+        <strong>Complexity Analysis</strong>?
+      </p>
+      <h3>Complexity Analysis of the Fractional Knapsack Problem</h3>
+      <ol>
+        <li>
+          <p><strong>Time Complexity</strong>:</p>
+          <ul>
+            <li>
+              The most time-consuming step in the Fractional Knapsack algorithm
+              is sorting the items based on their value-to-weight ratio. This
+              sorting step has a time complexity of \( O(n \log n) \), where \(
+              n \) is the number of items.
+            </li>
+            <li>
+              After sorting, the algorithm iterates through the items to fill
+              the knapsack, which takes \( O(n) \) time in the worst case.
+            </li>
+            <li>
+              Therefore, the overall time complexity of the Fractional Knapsack
+              Problem is: \[ O(n \log n) + O(n) = O(n \log n) \]
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p><strong>Space Complexity</strong>:</p>
+          <ul>
+            <li>
+              The space complexity is primarily determined by the storage of the
+              items. If we store the items in a list or array, the space
+              complexity is \( O(n) \).
+            </li>
+            <li>
+              If we only use a few additional variables for tracking the total
+              value and remaining capacity, the additional space used is
+              constant, \( O(1) \).
+            </li>
+            <li>Thus, the overall space complexity is: \[ O(n) \]</li>
+          </ul>
+        </li>
+      </ol>
+      <h3>Summary:</h3>
+      <ul>
+        <li><strong>Time Complexity</strong>: \( O(n \log n) \) due to sorting.</li>
+        <li><strong>Space Complexity</strong>: \( O(n) \) for storing items.</li>
+      </ul>
+      <p>
+        Would you like to explore <strong>Real-World Applications</strong>
+        next, or is there another topic from the list that interests you? I'm
+        here to help with whatever you need!
+      </p>
+    </div>
+  </div>
+</div>
